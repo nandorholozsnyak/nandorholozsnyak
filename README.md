@@ -10,18 +10,30 @@ And yes - Nandor backwards is ***Rodnan***.
 - 👯 I’m looking to collaborate on any kind of project which is fun.
 - ⚡ Fun fact: I used to make music... Would be nice to start it again.
 - 📫 How to reach me: 
-    - ![Twitter](https://img.shields.io/twitter/follow/therealhnk?style=social)
+    - ![Twitter](https://img.shields.io/twitter/follow/therealhnk?style=for-the-badge&logo=twitter)
+    - ![Spotify](https://img.shields.io/badge/Spotify-gray?style=for-the-badge&logo=spotify&link=https://open.spotify.com/user/11139842954?si=7a763ee8bafc46b4)
 
 ## 🖥️ Languages & Technologies Used
-- ![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat&logo=java)
-  - ![Spring Boot](https://img.shields.io/badge/Technology-Spring%20Boot-green?logo=spring)
-  - ![Quarkus](https://img.shields.io/badge/Technology-Quarkus-blue?logo=quarkus)
-- ![PHP](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php)
-  - ![Symfony](https://img.shields.io/badge/Technology-Symfony-blue?style=flat&logo=Symfony)
-- ![Database](https://img.shields.io/badge/Persistence-Database-blue?style=flat)
-  - ![PostgreSQL](https://img.shields.io/badge/Technology-PostgreSQL-blue?style=flat&logo=Postgresql)
-  - ![MariaDB](https://img.shields.io/badge/Technology-MariaDB-white?style=flat&logo=mariadb)  
-  - ![MySQL](https://img.shields.io/badge/Technology-MySQL-blue?style=flat&logo=mysql)
-  - ![Redis](https://img.shields.io/badge/Technology-Redis-red?style=flat&logo=Redis)
-  - ![MongoDB](https://img.shields.io/badge/Technology-MongoDB-green?style=flat&logo=mongodb)
-- ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-red?style=flat&logo=IntelliJ%20IDEA)
+- ![Java](https://img.shields.io/badge/Language-Java-yellow?style=for-the-badge&logo=java)
+  - ![Spring Boot](https://img.shields.io/badge/Technology-Spring%20Boot-green?style=for-the-badge&logo=spring)
+  - ![Quarkus](https://img.shields.io/badge/Technology-Quarkus-blue?style=for-the-badge&logo=quarkus)
+- ![PHP](https://img.shields.io/badge/Language-PHP-blue?style=for-the-badge&logo=php)
+  - ![Symfony](https://img.shields.io/badge/Technology-Symfony-blue?style=for-the-badge&logo=Symfony)
+- ![Database](https://img.shields.io/badge/Persistence-Database-blue?style=for-the-badge)
+  - ![PostgreSQL](https://img.shields.io/badge/Technology-PostgreSQL-blue?style=for-the-badge&logo=Postgresql)
+  - ![MariaDB](https://img.shields.io/badge/Technology-MariaDB-white?style=for-the-badge&logo=mariadb)  
+  - ![MySQL](https://img.shields.io/badge/Technology-MySQL-blue?style=for-the-badge&logo=mysql)
+  - ![Redis](https://img.shields.io/badge/Technology-Redis-red?style=for-the-badge&logo=Redis)
+  - ![MongoDB](https://img.shields.io/badge/Technology-MongoDB-green?style=for-the-badge&logo=mongodb)
+- ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-red?style=for-the-badge&logo=IntelliJ%20IDEA)
+
+
+## 🎧 Oh yeah, my favourite song is
+
+<div class="embed-spotify-song">
+    <iframe src="https://open.spotify.com/embed/track/39shmbIHICJ2Wxnk1fPSdz"  
+        frameborder="0" 
+        allowtransparency="true" 
+        allow="encrypted-media">
+    </iframe>
+</div>
