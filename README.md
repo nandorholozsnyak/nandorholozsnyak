@@ -29,11 +29,4 @@ And yes - Nandor backwards is ***Rodnan***.
 
 
 ## 🎧 Oh yeah, my favourite song is
-
-<div class="embed-spotify-song">
-    <iframe src="https://open.spotify.com/embed/track/39shmbIHICJ2Wxnk1fPSdz"  
-        frameborder="0" 
-        allowtransparency="true" 
-        allow="encrypted-media">
-    </iframe>
-</div>
+![Should I stay or should I go?](https://img.shields.io/badge/Should%20I%20stay%20or%20should%20I%20go%20-gray?style=for-the-badge&logo=spotify&link=https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz?si=54d7eca029d045c2)
