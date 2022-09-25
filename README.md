@@ -30,3 +30,6 @@ And yes - Nandor backwards is ***Rodnan***.
 
 ## 🎧 Oh yeah, my favourite song is
 ![Should I stay or should I go?](https://img.shields.io/badge/Should%20I%20stay%20or%20should%20I%20go%20-gray?style=for-the-badge&logo=spotify&link=https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz?si=54d7eca029d045c2)
+
+## Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0F98KL)
